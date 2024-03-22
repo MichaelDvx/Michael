@@ -1,0 +1,11 @@
+.cabecalho {
+    background-color: #0626d8;
+    color: rgb(219, 11, 11);
+    display:flex;
+    justify-content: space-around;
+}
+.cabecalho-imagem {
+    width: 20%;
+}
+.cabecalho-lista-item{
+
